@@ -23,8 +23,11 @@ Excellence Hotel é uma aplicação para desktop e web construída durante o 3/4
 
 # Como executar o projeto
 
-## Back end
+## Desktop
 Pré-requisitos: Visual Studio Community, .Net 4.0 + e SQLServer
+## Apresentação
+https://www.youtube.com/watch?v=Ni-HTpIHgMI
+
 
 
 ## Front end web
