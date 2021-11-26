@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Nivaldeir/Hotelaria-Excellence-Csharp/blob/main/LICENSE) 
 
 # Sobre o projeto
-Excellence Hotel é uma aplicação para desktop e web construída durante o 3/4 semestre da faculdade para a conclusão. A aplicação consiste em telas, de autenticação, cadastros e listagens. Com banco de dados SQL Server.
+Excellence Hotel é uma aplicação para desktop e web construída durante o 3/4 semestre da faculdade para a conclusão. A aplicação consiste em gerenciamento de hotelaria, juntamente com algoritmos de autenticação, cadastros e listagens, para facilitar o manuseio de gerenciamente e reservas juntamente com banco de dados SQL Server.
 
 ## Modelo conceitual
 ![BrModelo](https://user-images.githubusercontent.com/78504910/143617898-83b5772f-67a5-4b7d-a638-44a5abeaa7dc.png)
