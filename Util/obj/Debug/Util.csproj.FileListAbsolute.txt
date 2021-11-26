@@ -1,0 +1,11 @@
+D:\Nivaldeir\Projects\C#\HotelExcellence\Util\bin\Debug\Util.dll
+D:\Nivaldeir\Projects\C#\HotelExcellence\Util\bin\Debug\Util.pdb
+D:\Nivaldeir\Projects\C#\HotelExcellence\Util\bin\Debug\Correios.dll
+D:\Nivaldeir\Projects\C#\HotelExcellence\Util\bin\Debug\Correios.Net.dll
+D:\Nivaldeir\Projects\C#\HotelExcellence\Util\bin\Debug\Correios.pdb
+D:\Nivaldeir\Projects\C#\HotelExcellence\Util\bin\Debug\Correios.Net.pdb
+D:\Nivaldeir\Projects\C#\HotelExcellence\Util\obj\Debug\Util.csproj.AssemblyReference.cache
+D:\Nivaldeir\Projects\C#\HotelExcellence\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+D:\Nivaldeir\Projects\C#\HotelExcellence\Util\obj\Debug\Util.csproj.CopyComplete
+D:\Nivaldeir\Projects\C#\HotelExcellence\Util\obj\Debug\Util.dll
+D:\Nivaldeir\Projects\C#\HotelExcellence\Util\obj\Debug\Util.pdb

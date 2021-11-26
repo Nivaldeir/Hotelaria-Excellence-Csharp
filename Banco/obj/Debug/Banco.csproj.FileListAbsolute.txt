@@ -1,0 +1,11 @@
+D:\Nivaldeir\Projects\C#\HotelExcellence\Banco\bin\Debug\Banco.dll
+D:\Nivaldeir\Projects\C#\HotelExcellence\Banco\bin\Debug\Banco.pdb
+D:\Nivaldeir\Projects\C#\HotelExcellence\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+D:\Nivaldeir\Projects\C#\HotelExcellence\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+D:\Nivaldeir\Projects\C#\HotelExcellence\Banco\obj\Debug\Banco.dll
+D:\Nivaldeir\Projects\C#\HotelExcellence\Banco\obj\Debug\Banco.pdb
+D:\Nivaldeir\Projects\C#\HotelExcellence\Banco\bin\Debug\Classes.dll
+D:\Nivaldeir\Projects\C#\HotelExcellence\Banco\bin\Debug\Classes.pdb
+D:\Nivaldeir\Projects\C#\HotelExcellence\Banco\obj\Debug\Banco.csproj.CopyComplete
+D:\Nivaldeir\Projects\C#\HotelExcellence\Banco\bin\Debug\Util.dll
+D:\Nivaldeir\Projects\C#\HotelExcellence\Banco\bin\Debug\Util.pdb
