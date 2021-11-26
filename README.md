@@ -30,6 +30,8 @@ Pré-requisitos: Visual Studio Community, .Net 4.0 + e SQLServer
 ## Front end web
 Pré-requisitos: Visual Studio Community e SQLServer
 
+https://github.com/IsabelliBatista/ExcellenciaHotel
+
 ```bash
 cd .. //encontrar a pasta
 
