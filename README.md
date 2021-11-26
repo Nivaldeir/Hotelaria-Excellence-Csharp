@@ -1,1 +1,51 @@
-# Hotelaria-Excellence-Csharp
+![logo_Hotel_RGB](https://user-images.githubusercontent.com/78504910/143617648-ce405af1-f054-4268-b68b-4da62eddbd02.png)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Nivaldeir/Hotelaria-Excellence-Csharp/blob/main/LICENSE) 
+
+# Sobre o projeto
+Excellence Hotel é uma aplicação para desktop e web construída durante o 3/4 semestre da faculdade para a conclusão. A aplicação consiste em telas, de autenticação, cadastros e listagens. Com banco de dados SQL Server.
+
+## Modelo conceitual
+![BrModelo](https://user-images.githubusercontent.com/78504910/143617898-83b5772f-67a5-4b7d-a638-44a5abeaa7dc.png)
+
+## Diagrama de Classe
+![Diagrama de Classes](https://user-images.githubusercontent.com/78504910/143617905-d800fc67-43ef-4d8e-a4eb-cada4e484780.png)
+
+## Script banco de dados
+- [Script.txt](https://github.com/Nivaldeir/Hotelaria-Excellence-Csharp/files/7610222/Script.txt)
+
+# Tecnologias utilizadas
+## Back end
+- CSharp
+- SQLServer
+- ASP.net
+## Front end
+- HTML / CSS / JS 
+
+# Como executar o projeto
+
+## Back end
+Pré-requisitos: Visual Studio Community, .Net 4.0 + e SQLServer
+
+
+## Front end web
+Pré-requisitos: Visual Studio Community e SQLServer
+
+```bash
+cd .. //encontrar a pasta
+
+git clone URL // baixar na máquina
+
+git add . //adicionar arquivo
+
+git commit -m 'mensagem" //salvando commit com mensagem
+
+git push origin master // vai enviar a versão que foi salva
+
+git pull //vai atualizar na sua máquina
+```
+
+# Autor
+
+Nivaldeir Santana da Silva
+
+https://www.linkedin.com/in/nivaldeir
