@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 Excellence Hotel é uma aplicação para desktop e web construída durante o 3/4 semestre da faculdade para a conclusão. A aplicação consiste em gerenciamento de hotelaria, juntamente com algoritmos de autenticação, cadastros e listagens, para facilitar o manuseio de gerenciamente e reservas juntamente com banco de dados SQL Server.
-## Documentação
+## Estudo sobre o projeto
 [PIM IV.pdf](https://github.com/Nivaldeir/Hotelaria-Excellence-Csharp/files/7610286/PIM.IV.pdf)
 
 ## Modelo conceitual
