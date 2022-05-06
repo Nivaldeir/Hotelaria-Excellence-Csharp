@@ -34,7 +34,6 @@ https://www.youtube.com/watch?v=Ni-HTpIHgMI
 
 ## Front end web
 Pré-requisitos: Visual Studio Community e SQLServer
-
 https://github.com/IsabelliBatista/ExcellenciaHotel
 
 ```bash
